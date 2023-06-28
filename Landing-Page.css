@@ -1,0 +1,210 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.main{
+    background-image:url("https://img.freepik.com/free-photo/luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-ge_1258-150755.jpg?w=1060&t=st=1687082228~exp=1687082828~hmac=8ad8de030e29e2f3b8378293da67a7ec1949b63c18835e341c9dca7b94fac606");
+    height:110vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.align{
+    font-family: "Bree Serif";
+    color:darkorange;
+    /* text-align: center; */
+    font-size: 90px;
+    padding-left:10px;
+    margin-left:8px;
+}
+.align1{
+    font-family: "Bree Serif";
+    color:black;
+    /* font-weight: bold; */
+    /* text-align: center; */
+    font-size: 30px;
+    padding-left:5px;
+    margin-left:5px;
+    font-weight: bold;
+}
+.align2{
+    font-family: "Bree Serif";
+    color:black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    padding-left:12px;
+    margin-left:12px;
+    /* text-decoration: underline; */
+}
+.id1{
+    padding-right:25px;
+    color:white;
+    
+    font-family: "Bree Serif";
+    font-size: 32px;
+}
+.id2{
+    padding-right:25px;
+    
+    font-family: "Bree Serif";
+    font-size: 32px;
+    color:white;
+}
+.id3{
+    padding-right:25px;
+    color:white;
+    font-family: "Bree Serif";
+    font-size: 32px;
+}
+.id4{
+    padding-right:25px;
+    color:white;
+    font-family: "Bree Serif";
+    font-size: 32px;
+    
+}
+.container2{
+    padding-left:150px;
+}
+.topnav {
+    overflow: hidden;
+    height:50px; 
+    width:fit-content;
+    padding-left:150px;
+
+  
+}
+.one{
+    background-image: url("https://img.freepik.com/free-photo/stone-brick-wall-texture_23-2147960224.jpg?w=996&t=st=1687085919~exp=1687086519~hmac=c54312d8834b836cc9c8941e50cf89ffb6569fdc886b2fb87dd724a615e509d4");
+    background-size: cover;
+    height:130vh;
+}
+.two{
+    background-image: url("https://img.freepik.com/free-photo/stone-brick-wall-texture_23-2147960224.jpg?w=996&t=st=1687085919~exp=1687086519~hmac=c54312d8834b836cc9c8941e50cf89ffb6569fdc886b2fb87dd724a615e509d4");
+    background-size: cover;
+    height:130vh;
+}
+.three{
+    background-image: url("https://img.freepik.com/premium-photo/green-vintage-dial-telephone-handset-with-green-background_180224-81.jpg?w=1380");
+    background-size: cover;
+    height:130vh;
+    padding-top:50px;
+}
+.kite{
+    text-align: center;
+}
+.gap{
+    padding:50px;
+    font-family: "Bree Serif";
+    font-size:22px;
+    font-weight: bold;
+}
+.under{
+    color: lightslategrey;
+}
+.color{
+    border:5px red groove;
+    border-radius:5px;
+}
+.unordered_list{
+    list-style-type: square;
+}
+.name{
+    font-family: "Bree Serif";
+    font-size:40px;
+    color:darkorange;
+    font-weight: bold;
+    text-align: center;
+}
+.name1{
+    font-family: "Bree Serif";
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    padding:5px;
+    margin:5px;
+    line-height:1.7;
+}
+.image{
+    float:left;
+    padding:20px;
+    margin-top:80px;
+}
+.contact-us{
+    border:5px black groove;
+    height:500px;
+    width:600px;
+    padding:15px;
+    margin-left:500px;
+}
+.center1{
+    text-align: center;
+    margin-left:45%;
+}
+.email-box{
+    padding-right:110px;
+    font-size:36px;
+    color:goldenrod;
+}
+.contact-box{
+    color:red;
+}
+
+.instagram{
+    margin-right:100px;
+    font-size:36px;
+    text-align: center;
+}
+.youtube-play{
+    margin-right:100px;
+    font-size:36px;
+    text-align: center;
+    color:red;
+}
+.twitter{
+    margin-right:100px;
+    font-size:36px;
+    text-align: center;
+    color: #00ACEE;
+}
+.follow{
+    font-family: "Bree Serif";
+    font-size: 50px;
+}
+
+
+
+.followwww{
+    text-align: center;
+}
+.follow-box{
+    padding-left:120px;
+}
+.boy{
+    font-style: italic;
+    font-weight: bold;
+    font-family: "Bree Serif";
+    font-size: 35px;
+   transform: rotateZ(-25deg);
+   padding-left:1155px;
+   color:darkblue;
+}
+.center{
+    animation: MoveUpDown 1.5s   linear infinite;
+    position: relative;
+}
+  
+  @keyframes MoveUpDown {
+    0%, 100%{
+      bottom: 0;
+    }
+    50%{
+      bottom: 100px;
+    }
+  }
+  #insta {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
